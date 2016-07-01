@@ -1,7 +1,7 @@
 Scoring by Position Analysis
 ----------------------------
 
-Silly little script to tell how many of each position are in the Top (X) of scorers.  
+Silly little script to tell how many of each position are in the Top (X) of scorers on an MFL site.
 
 Uses an import.io feed of the MFL top performers page, because I need a full season's stats but I can't generate a test league from last year and the MFL export for scoring doesn't allow year selection.
 
